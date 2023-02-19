@@ -1,3 +1,12 @@
+// ********************************************************* 
+// Course: TCP1101 PROGRAMMING FUNDAMENTALS 
+// Year: Trimester 1, 2022/23 (T2215) 
+// Lab: TT4L 
+// Names: YONG RUI CHEN | MUHAMMAD AFIQ BIN FAIDZ
+// IDs: 1221303408 | 1221303455
+// Emails: 1221303408@student.mmu.edu.my | 1221303455@student.mmu.edu.my
+// Phones: 0193531134 | 0135383499
+// ********************************************************* 
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
