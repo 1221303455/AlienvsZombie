@@ -1,26 +1,37 @@
 # Alien vs. Zombie
 
-Please introduce the game here.
-
-You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
+Alien versus Zombie is a strategy board game for all ages. The objective of the game is to kill all the Zombies on the board and survives as the Alien with smart and planned movements and direction.
 
 Please provide the YouTube link to your [Video Demo](https://youtu.be/3M3ZHvRtxqc).
 
 ## Compilation Instructions
 
-Provide instructions on how to compile your program, especially when it is non-trivial.
-
-For example:
-
-```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
-```
+g++ main.cpp
 
 ## User Manual
 
-Please provide the user manual on how to use your program.
+Start Menu
+-Enter y to change the game settings or n to start the game with the initial settings
 
-Please DO NOT change the Progress Log below. Leave it as it is.
+Game Settings Menu
+1. Enter the values for the number of rows and columns you prefer the game board dimension to be. (It is recommanded that you enter a value greater than 5 for better gameplay experience and value should be an odd number)
+2. Enter the value for the number of Zombies you would like to be on the game board. The greater the number of Zombies, the harder the game will be. (Number of Zombies of minimum of 1 and maximum of 10)
+
+Game Screen
+-Enter M/m and enter either "left", "right", "down", "up" to control the direction of the Alien moves toward.
+-Enter C/c to change the direction of the arrows so that you can "combo" the direction the Alien moves toward.
+-Enter H/h to see the different commands to you can use.
+-Enter Q/q to quit and end the game.
+
+Alien Move Screen 
+-Enter the direction you want the Alien to move towards to. Direction can be either "left", "right", "down" or "up".
+
+Change Arrow Direction Screen
+1. Enter the row and column of the specific arrow that you want to change the direction of.
+2. Enter a new direction you would like the arrow to point towards.
+
+Game End Screen.
+-Enter either y to play the game again or n to end and quit the game.
 
 ## Progress Log
 
@@ -29,7 +40,5 @@ Please DO NOT change the Progress Log below. Leave it as it is.
 
 ## Contributors
 
-Please replace the following with your group members' names. 
-
-- Rui Chen
+- Yong Rui Chen
 - Afiq Faidz
