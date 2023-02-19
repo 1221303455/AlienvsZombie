@@ -24,7 +24,7 @@ Game Screen
 4. Enter Q/q to quit and end the game.
 
 Alien Move Screen 
- Enter the direction you want the Alien to move towards to. Direction can be either "left", "right", "down" or "up".
+1. Enter the direction you want the Alien to move towards to. Direction can be either "left", "right", "down" or "up".
 
 Change Arrow Direction Screen
 1. Enter the row and column of the specific arrow that you want to change the direction of.
